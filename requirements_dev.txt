@@ -1,6 +1,6 @@
 argparse==1.4.0
 pre-commit==0.13.3
-pytest
+pytest==3.0.6
 pytest-cov
 pytest-random
 tox
