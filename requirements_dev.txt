@@ -2,6 +2,6 @@ argparse==1.4.0
 pre-commit==0.13.3
 pytest==3.0.6
 pytest-cov==2.4.0
-pytest-random
+pytest-random==0.02
 tox
 wheel>=0.21
