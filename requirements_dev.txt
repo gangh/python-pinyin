@@ -1,5 +1,5 @@
 argparse==1.4.0
-pre-commit
+pre-commit==0.13.3
 pytest
 pytest-cov
 pytest-random
